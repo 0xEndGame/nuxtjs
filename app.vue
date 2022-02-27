@@ -1,5 +1,6 @@
 <template>
   <div>
-    <nuxt-img src="/davinci.gif" />
+    <NuxtWelcome
+    <nuxt-img src="/davinci.gif" /> />
   </div>
 </template>
